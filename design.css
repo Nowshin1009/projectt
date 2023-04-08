@@ -1,0 +1,104 @@
+body {
+  font-family: "Sofia", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+#hlw {
+  color: purple;
+}
+
+#fsec {
+  display: flex;
+  background-image: url(levender.png);
+}
+
+.ssec {
+  display: flex;
+  background-image: url(bg\ mustard.jpg);
+}
+
+#tsec {
+  display: flex;
+}
+
+#fimg img {
+  height: 500px;
+  padding: 15px;
+}
+
+#simg img {
+  height: 500px;
+  padding: 15px;
+}
+
+#fdiv {
+
+  padding: 15px;
+}
+
+#sdiv {
+  padding: 10px;
+}
+
+.fbutton {
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(black, rgb(205, 119, 205));
+  font-weight: 700;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+.sbutton {
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(rgb(164, 220, 153), rgb(44, 35, 17));
+  font-weight: 700;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+#spring {
+  color: rgb(0, 195, 0);
+}
+
+.half-width {
+  width: 40%;
+  box-shadow: 10px 10px 30px black;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+#butterfly {
+  border-left: 10px solid rgb(237, 160, 237);
+  color: rgb(194, 5, 194);
+}
+
+#sunshine {
+  color: brown;
+  border-left: 10px solid rgb(241, 111, 5);
+}
+
+#color {
+  text-align: center;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#dd8108, #9a12e9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+#enjoy {
+  text-align: center;
+  font-size: 42px;
+  background: -webkit-linear-gradient(#dd8108, #9a12e9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
